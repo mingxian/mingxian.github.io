@@ -12,23 +12,23 @@ categories:
 <li>在Ternimal中执行ruby --version，确保Ruby的版本至少为1.9.3或更新。</li>
 </ol>
 
-<h2>clone October</h2>
+<h2>clone Octopress</h2>
 
 	$git clone git://github.com/imathis/octopress.git octopress
 
 	$cd octopress
 
-<h2>安装October依赖</h2>
+<h2>安装Octopress依赖</h2>
 
 	$gem install bundler
 
 	$bundle install
 
-<h2>安装October默认主题</h2>
+<h2>安装Octopress默认主题</h2>
 	
 	$rake install
 
-<h2>在github上部署October</h2>
+<h2>在github上部署Octopress</h2>
 <ol>
 <li>在github创建一个名为<code>username.github.io</code>的repository,username是你的github账户名。</li>
 <li>复制下clone所需的地址：git@github.com:username/username.github.io.git</li>
