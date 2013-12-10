@@ -4,7 +4,7 @@
   <title><![CDATA[Geoffrey's Blog]]></title>
   <link href="http://mingxian.github.io/atom.xml" rel="self"/>
   <link href="http://mingxian.github.io/"/>
-  <updated>2013-12-10T16:52:24+08:00</updated>
+  <updated>2013-12-10T17:01:07+08:00</updated>
   <id>http://mingxian.github.io/</id>
   <author>
     <name><![CDATA[Geoffrey]]></name>
@@ -31,7 +31,7 @@
 
 
 
-<h2>clone October</h2>
+<h2>clone Octopress</h2>
 
 
 <pre><code>$git clone git://github.com/imathis/octopress.git octopress
@@ -39,7 +39,7 @@
 $cd octopress
 </code></pre>
 
-<h2>安装October依赖</h2>
+<h2>安装Octopress依赖</h2>
 
 
 <pre><code>$gem install bundler
@@ -47,13 +47,13 @@ $cd octopress
 $bundle install
 </code></pre>
 
-<h2>安装October默认主题</h2>
+<h2>安装Octopress默认主题</h2>
 
 
 <pre><code>$rake install
 </code></pre>
 
-<h2>在github上部署October</h2>
+<h2>在github上部署Octopress</h2>
 
 
 <ol>
